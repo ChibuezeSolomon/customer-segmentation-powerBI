@@ -12,8 +12,7 @@ This project applies machine learning (K-Means clustering) to segment customers 
 - Algorithm: K-Means Clustering
 - Features: Recency, Frequency, Monetary Value, Avg Spend, Total Profit
 - Number of clusters: 3
-- Silhouette Score: 0.26
-- Davies-Bouldin Index: 1.33
+- Silhouette Score
 
 ## 📊 Dashboard Pages
 1. Executive Overview  
